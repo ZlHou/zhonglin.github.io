@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhonglin Hou"
   pronouns         : "he/his" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Shanghai | Sydney"
   employer         : "ECNU | UNSW"
   uri              : # URL
